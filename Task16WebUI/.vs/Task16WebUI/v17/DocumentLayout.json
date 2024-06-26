@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Task 16\\Task16WebUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E19B502D-FB93-4B82-8793-C3CED8F798BD}|Task16WebUI\\Task16WebUI.csproj|c:\\users\\asus\\desktop\\task 16\\task16webui\\task16webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E19B502D-FB93-4B82-8793-C3CED8F798BD}|Task16WebUI\\Task16WebUI.csproj|solutionrelative:task16webui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19B502D-FB93-4B82-8793-C3CED8F798BD}|Task16WebUI\\Task16WebUI.csproj|c:\\users\\asus\\desktop\\task 16\\task16webui\\task16webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E19B502D-FB93-4B82-8793-C3CED8F798BD}|Task16WebUI\\Task16WebUI.csproj|solutionrelative:task16webui\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 16\\Task16WebUI\\Task16WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task16WebUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 16\\Task16WebUI\\Task16WebUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task16WebUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAO8BAAAAAAAAAAAAAAICAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:50:25.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task 16\\Task16WebUI\\Task16WebUI\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task16WebUI\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task 16\\Task16WebUI\\Task16WebUI\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Task16WebUI\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAI8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:46:43.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
