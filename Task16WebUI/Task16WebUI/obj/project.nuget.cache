@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nH4p8cbs0hsOlyPwTlXrVA29quFaVrmeKooRatnTuHH0ovhQRHRa0jQ8bxdQjeLLTKj0cZVu/5AD4FGziIiO/w==",
+  "dgSpecHash": "V/JuV5TIgnfuBQIDRYEx+CYp0JxYYjERNSyX754wfHacExk+G8w8Sji+Nr2C2HFR0QzEvHZkfY/+uQQlLVLWHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Asus\\Desktop\\Task 16\\Task16WebUI\\Task16WebUI\\Task16WebUI.csproj",
   "expectedPackageFiles": [
@@ -79,8 +79,10 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.6\\microsoft.entityframeworkcore.design.8.0.6.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.6\\microsoft.entityframeworkcore.relational.8.0.6.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.6\\microsoft.entityframeworkcore.sqlserver.8.0.6.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.6\\microsoft.entityframeworkcore.tools.8.0.6.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

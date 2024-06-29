@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task16WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0607a5cf21924473c447d5f553a63c117aa36dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86418d404c93c8b86b3f9565f0577ac16ba4fd1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task16WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task16WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

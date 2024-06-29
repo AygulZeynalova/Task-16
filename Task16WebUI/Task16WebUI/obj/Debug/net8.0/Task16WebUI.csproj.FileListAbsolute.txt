@@ -248,3 +248,4 @@ C:\Users\Asus\Desktop\Task 16\Task16WebUI\Task16WebUI\obj\Debug\net8.0\refint\Ta
 C:\Users\Asus\Desktop\Task 16\Task16WebUI\Task16WebUI\obj\Debug\net8.0\Task16WebUI.pdb
 C:\Users\Asus\Desktop\Task 16\Task16WebUI\Task16WebUI\obj\Debug\net8.0\Task16WebUI.genruntimeconfig.cache
 C:\Users\Asus\Desktop\Task 16\Task16WebUI\Task16WebUI\obj\Debug\net8.0\ref\Task16WebUI.dll
+C:\Users\Asus\Desktop\Task 16\Task16WebUI\Task16WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
